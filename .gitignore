@@ -1,0 +1,2 @@
+# Ignore the trained model save file.
+/model.h5
