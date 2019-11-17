@@ -6,9 +6,12 @@ The dataset is a collection of reviews (25,000 for training and 25,000 for testi
 
 Each review has an associated label, which is a binary integer representing whether the review is positive or negative.
 
+Adapted/fixed/modified/annotated starting from a [tutorial](https://www.youtube.com/watch?v=6g4O5UOH304) by [@TechWithTimm](https://twitter.com/TechWithTimm).
+
 ## Requirements
 
 Python version: 3.7.4
+
 See dependencies.txt for packages and versions (and below to install).
 
 ## Architecture of the neural network
